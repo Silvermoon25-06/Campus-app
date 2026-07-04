@@ -1,0 +1,6 @@
+{
+  "name": "UniCampus",
+  "description": "An all-in-one assistant and scheduling portal for university students, including class schedules, grade tracking, study partner finder, campus maps navigation, clubs messaging, and an admin analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
